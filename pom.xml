@@ -10,10 +10,19 @@
   	<system>GitHub Issues</system>
   	<url>https://github.com/mcorcuera/smart-alarm/issues</url>
   </issueManagement>
-  
+   
   <scm>
   	<url>https://github.com/mcorcuera/smart-alarm</url>
   	<connection>scm:git:git@github.com:mcorcuera/smart-alarm.git</connection>
   	<developerConnection>scm:git:git@github.com:mcorcuera/smart-alarm.git</developerConnection>
   </scm>
+  
+  <dependencies>
+  <dependency>
+	<groupId>junit</groupId>
+	<artifactId>junit</artifactId>
+	<version>4.10</version>
+</dependency>
+  
+  </dependencies>
 </project>
