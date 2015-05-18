@@ -9,6 +9,7 @@ public class AlarmTest {
 	@Test
 	public void test() {
 		assertTrue(true);
+		//Que es esto
 	}
 
 }
